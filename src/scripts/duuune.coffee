@@ -12,6 +12,7 @@
 module.exports = (robot) ->
   robot.hear /(ドゥーン|duu+ne|doo+ne)/i, (msg) ->
     msg.send """
+.
 　　　∧_∧ 
 　　(　･ω･)　ﾄﾞｩｰﾝ!! 
 　　|　⊃⊃ 
